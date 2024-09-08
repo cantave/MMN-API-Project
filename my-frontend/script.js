@@ -49,7 +49,7 @@ fetch('http://localhost:3000/api/report')
             ul.appendChild(li);
         });
     } else {
-        console.error("Expected an array of commodities, but got:', commodities");
+        console.error("Expected an array of commodities, but got:", commodities);
     }
     // // Display the data in the HTML
     // const outputDiv = document.getElementById('data-output');
