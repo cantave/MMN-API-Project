@@ -1,4 +1,4 @@
-// Import express and node-fetch as ES modules
+
 import express from 'express';
 import fetch from 'node-fetch';
 import cors from 'cors';
@@ -20,7 +20,7 @@ app.get('/api/report', async (req, res) => {
         const apiResponse = await fetch(apiUrl, {
             method: 'GET',
             headers: {
-                'Authorization': `Basic ${encodedApiKey}`, // Add your API key here
+                'Authorization': `Basic ${encodedApiKey}`,
                 'Accept': '*/*',
             }
         });
@@ -40,4 +40,3 @@ app.listen(3000, () => {
 
 
 
-// 7XWk8PBs9+OjXy0lnHId4hcklqT6IuVy
