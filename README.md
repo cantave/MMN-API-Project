@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-As a small-scale farmer focused on specialty crops, I often find myself needing access to up-to-date market data, particularly for crops like **bell peppers** and **tomatoes**. The information from terminal markets provides valuable insights into pricing trends, origins, and other key details that can influence my farming decisions. This project is an attempt to automate the process of retrieving such information using a backend API and displaying it in a simple, user-friendly front-end interface.
+As a small-scale farmer focused on specialty crops, I often find myself needing access to up-to-date market data, particularly for crops like **peppers**, **okra**, **melons** and **tomatoes**. The information from terminal markets provides valuable insights into pricing trends, origins, and other key details that can influence my farming decisions. This project is an attempt to automate the process of retrieving such information using a backend API and displaying it in a simple, user-friendly front-end interface.
 
 Although my primary passion lies in farming, I’ve recently completed a coding bootcamp to gain skills in software development. I’m still very much a beginner, but this project represents my growing understanding of full stack development—integrating my interests in agriculture with technology.
 
